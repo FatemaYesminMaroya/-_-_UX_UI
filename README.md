@@ -7,7 +7,7 @@
 
 ## Table of Contents
 
-- [video](https://www.figma.com/design/uN1MDNd1jEWdn8WYgQu0nJ/fist-project?node-id=0-1&t=PxaftJ3b8Ip3F7ej-1)
+- [video](https://drive.google.com/drive/folders/1peQ9jnra6BUldcCXr_y3fIwInoU5HgKf?usp=sharing)
 
 
 ## Prototype
